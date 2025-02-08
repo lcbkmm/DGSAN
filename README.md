@@ -1,4 +1,4 @@
-# DGSAN
+# DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction
 
 The overall framework of our proposed DGSAN:
 
@@ -36,12 +36,10 @@ The CLST Dataset. The CLST dataset includes 109 patients with 317 CT sequences a
 
 ```
 python train_Encoder.py
-
 ```
 
 - for model:
 
 ```
 python train_model.py
-
 ```
