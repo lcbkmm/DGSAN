@@ -6,7 +6,7 @@ The overall framework of our proposed DGSAN:
 
 Comparison of different SOTA methods on the NLST-cmst dataset and CLST dataset:
 
-![renderings](img/Table.png)
+![renderings](img/table.png)
 
 ## Pre-requisties
 
